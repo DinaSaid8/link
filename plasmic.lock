@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "projectId": "23Xw4ATF9gEcg5TJuhoYHT",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "gt4Ds_qX86_x",
+          "checksum": "105c1cca6dde2cb5c4cb3a94e5bd9630"
+        },
+        {
+          "assetId": "23Xw4ATF9gEcg5TJuhoYHT",
+          "type": "projectCss",
+          "checksum": "0b6ea6ec4fffa67754643b11c96d1336"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "3-u3t_yJ9W8O",
+          "checksum": "fa0fc9ad9e71dce99f0d1998b890eeef"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "3-u3t_yJ9W8O",
+          "checksum": "fa0fc9ad9e71dce99f0d1998b890eeef"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "6sTX6TCPHl",
+          "checksum": "d51a619bc6160d36935ea226ce6b4e72"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "6sTX6TCPHl",
+          "checksum": "d51a619bc6160d36935ea226ce6b4e72"
+        },
+        {
+          "type": "icon",
+          "assetId": "EvVaHKD2mA",
+          "checksum": "6837cfcf768c708af632e5b167b51543"
+        },
+        {
+          "type": "icon",
+          "assetId": "GQrinbJIOU",
+          "checksum": "1ba01f0c3422d5af4f4ef560b1de3c50"
+        },
+        {
+          "type": "icon",
+          "assetId": "d5X2KjJLms",
+          "checksum": "06b5de0fd166d96d418d491dcb1f17e5"
+        },
+        {
+          "type": "image",
+          "assetId": "OpuHhigT_",
+          "checksum": "b135696a398fa3848f1c8ed448a983de"
+        },
+        {
+          "type": "image",
+          "assetId": "wVyLozocNh",
+          "checksum": "b9f18354aa26a7f6750c89f5bf39c071"
+        },
+        {
+          "type": "image",
+          "assetId": "ARoj0cCWU",
+          "checksum": "28d3b0b5ab0d85623fdb710fb5d1f2d5"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.192"
+}
